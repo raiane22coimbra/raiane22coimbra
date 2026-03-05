@@ -1,32 +1,50 @@
 ### 👋 Hi there, I'm Raiane!
 
-💻 I'm a Computer Technician with a Bachelor's degree in Information Systems and a true passion for technology.
+💻 I'm a Software Engineer with a Bachelor's degree in Information Systems and over 3 years of experience building modern and scalable web applications.
 
-🚀 I'm currently diving deep into **front-end development**, working with technologies like:
+🚀 I work mainly with **front-end development**, creating responsive and well-structured interfaces using technologies such as:
 
 - **React**
 - **Next.js**
 - **TypeScript**
+- **JavaScript (ES6+)**
+- **TailwindCSS**
+
+⚙️ I also have strong experience on the **backend**, building APIs and scalable services with:
+
 - **Node.js**
+- **Fastify**
+- **NestJS**
+- **Prisma**
+- **Strapi**
+- **GraphQL**
+- **REST APIs**
 
-🧠 I'm always looking to learn and improve. I love taking on personal projects to sharpen my technical and creative skills.
+📱 Additionally, I have experience developing **cross-platform mobile applications** using:
 
-🤖 I also have a solid background in **robotics and automation** with **Arduino**, and experience with:
+- **React Native**
 
-- **JavaScript / TypeScript**
-- **Python**
-- **C++**
-- **HTML / CSS**
+🧩 My work also involves API integrations, technical documentation, and developer tooling, including:
+
+- **OpenAPI / Swagger**
+- **Docusaurus**
+- **CLI development**
+- **API Management**
+
+🗄️ I have experience working with databases and infrastructure tools such as:
+
+- **PostgreSQL**
+- **MongoDB**
 - **Docker**
+- **Git**
 
-🌱 I'm currently learning new tools and best practices in the software development ecosystem to stay up to date and become a better developer every day.
+🧠 I'm passionate about building well-structured products, improving developer experience, and constantly learning new technologies in the modern web ecosystem.
 
-💞️ I'm looking to collaborate on open-source projects or innovative ideas that help me grow professionally and contribute to the tech community.
+💞️ I'm open to collaborating on **innovative projects, open-source initiatives, and impactful products** that push technology forward.
 
 📫 How to reach me:  
-Feel free to connect or reach out to me via [LinkedIn](https://www.linkedin.com/in/raianecoimbra) or open an issue in one of my repositories!
+Feel free to connect via [LinkedIn](https://www.linkedin.com/in/raianecoimbra) or explore my [Portfolio](https://raiane-coimbra.netlify.app/#).
 
 ---
 
 ✨ Thanks for stopping by! Let's build something amazing together.
-
